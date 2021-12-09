@@ -1,0 +1,2 @@
+# Instructions:
+Hello! Welcome to Ansh's Ray Tracer. To run this ray tracer, start with ray_tracing.ipynb to see standard renders, and then switch to ray_tracing_pdf.ipynb to see the probability distribution function renders.
