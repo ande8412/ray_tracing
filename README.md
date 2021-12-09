@@ -1,3 +1,3 @@
-# Final project:
+#Info:
 
-For the Nov. 18 deadline for the draft of the first to sections of the wirteup, you can add them here and push. Other deadlines and information are given in the two pdfs in this repo.
+I built a ray tracer for my final project in my computational physics class
